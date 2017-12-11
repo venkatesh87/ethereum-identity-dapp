@@ -1,12 +1,10 @@
-# uPort ÐApp
-uPort demo
+# Ethereum Identity ÐApp
 
 ## Smart Contracts
 * Official uPort version: [uport-identity](https://github.com/uport-project/uport-identity) and [uport-registry](https://github.com/uport-project/uport-registry)
-* Jamie version: [uport-contracts](https://github.com/hcmlinj/uport-contracts)
 
 ## Config
-### Default [config.json](https://github.com/hcmlinj/uport-dapp/blob/master/config.json), you should modify to yours.
+### Default [config.json](https://github.com/venkatesh87/ethereum-identity-dapp/blob/master/config.json), you should modify to yours.
 ```js
     "contract": {
         "IdentityFactory": "0x6ef4aa4af375efb4e076f0a79698ed771a8f11b3",

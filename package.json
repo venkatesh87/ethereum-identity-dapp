@@ -1,10 +1,10 @@
 {
-  "name": "uport-dapp",
+  "name": "ethereum-identity-dapp",
   "version": "1.0.0",
-  "description": "uPort ÐApp Demo",
+  "description": "Ethereum ÐApp Demo",
   "main": "server.js",
-  "repository": "https://github.com/hcmlinj/uport-dapp.git",
-  "author": "Jamie",
+  "repository": "https://github.com/venkatesh87/ethereum-identity-dapp.git",
+  "author": "Venkatesh",
   "license": "MIT",
   "scripts": {
     "webpack": "webpack",
