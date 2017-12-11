@@ -51,3 +51,26 @@ yarn start
 ```bash
 ./jwt_rs256.sh
 ```
+
+# Identity Contracts
+
+## testrpc
+```bash
+yarn testrpc
+// or npm run testrpc
+```
+
+## migrate
+```bash
+yarn migrate
+// or npm run migrate
+```
+
+## console
+```bash
+yarn console
+// or npm run console
+```
+
+## Documentation
+* [Official Truffle Documentation](http://truffleframework.com/docs/)

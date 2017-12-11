@@ -13,7 +13,13 @@
     "pm2": "pm2",
     "start": "pm2 start server.js --watch --no-daemon",
     "startp": "pm2 start server.js -i 0 --no-daemon",
-    "stop": "pm2 stop all"
+    "stop": "pm2 stop all",
+    
+    "testrpc": "testrpc",
+    "truffle": "truffle",
+    "migrate": "truffle migrate --network localhost",
+    "migrate-reset": "truffle migrate --reset --network localhost",
+    "console": "truffle console --network localhost"
   },
   "babel": {
     "presets": [
@@ -45,11 +51,13 @@
     "babel-preset-latest": "^6.24.1",
     "bootstrap": "^3.3.7",
     "css-loader": "^0.28.1",
+    "ethereumjs-testrpc": "^3.0.5",
     "file-loader": "^0.11.1",
     "jquery": "^3.2.1",
     "node-sass": "^4.5.2",
     "sass-loader": "^6.0.4",
     "style-loader": "^0.17.0",
+    "truffle": "^3.2.2",
     "vue": "^2.3.3",
     "vue-loader": "^12.0.3",
     "vue-router": "^2.5.3",

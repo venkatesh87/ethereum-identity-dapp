@@ -1,4 +1,17 @@
-node_modules/
+# Node build artifacts
+node_modules
+
+# Local development
+*.env
+.DS_Store
+
+# log
+*.log
+
+# dist folder
 dist/
+build/
+
+# misc
 .git/
 .c9/

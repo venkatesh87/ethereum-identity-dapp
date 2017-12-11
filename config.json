@@ -1,7 +1,7 @@
 {
     "contract": {
-        "IdentityFactory": "0x6ef4aa4af375efb4e076f0a79698ed771a8f11b3",
-        "UportRegistry": "0xa464ecde6f6835d1f649da8b8b9848e77a14912e"
+        "IdentityFactory": "0xb1a4aa6b8e2645c97e17a8dd42816cbdf9bbb777",
+        "UportRegistry": "0xcca9dca5145ae0c3b7a917327dff9ae1d3dc0680"
     },
     "ethereum": {
         "host": "http://127.0.0.1:8545"
